@@ -1,0 +1,68 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 4096 (0x1000)
+        Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C=US, ST=Indiana, L=Lafayette, O=PU, OU=PU, CN=mc20ca/emailAddress=ca@mc20.cs.purdue.edu
+        Validity
+            Not Before: Mar  3 21:28:13 2024 GMT
+            Not After : Mar  3 21:28:13 2025 GMT
+        Subject: C=US, ST=Indiana, O=PU, OU=PU, CN=svr_csr/emailAddress=svr_csr@mc20.cs.purdue.edu
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (1024 bit)
+                Modulus:
+                    00:e6:f5:e1:dc:d3:9e:44:c6:18:89:aa:27:5c:c4:
+                    ba:8e:c7:35:79:3b:21:26:0f:42:8e:c2:82:76:90:
+                    14:c0:74:bb:79:82:ec:7c:35:03:90:cc:c3:7c:04:
+                    49:9f:15:23:19:15:33:2d:b0:77:87:d1:a9:8f:cc:
+                    02:81:a5:6a:b9:b6:30:e5:aa:0a:9e:33:7b:87:03:
+                    c5:bd:4f:0a:8a:a1:84:a7:71:2b:61:2c:d8:47:b1:
+                    8f:a0:be:38:eb:63:32:1d:b0:43:0c:d9:45:b0:26:
+                    9c:f4:58:4d:54:b5:0c:e5:1e:55:7f:e2:29:54:e3:
+                    16:fd:6b:81:78:2c:2f:77:6d
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Basic Constraints: 
+                CA:FALSE
+            X509v3 Subject Key Identifier: 
+                FE:CB:30:21:B7:0D:FF:51:4C:59:4B:9B:0D:88:A0:EC:73:BA:22:C7
+            X509v3 Authority Key Identifier: 
+                1F:5C:F1:CE:20:2C:90:44:A8:09:10:BD:2D:82:D8:12:EE:4A:47:90
+    Signature Algorithm: sha256WithRSAEncryption
+    Signature Value:
+        67:5d:ec:db:05:9e:45:b0:e4:17:6e:d5:6a:c1:3e:60:c7:11:
+        dd:1e:47:47:ae:cc:2e:b1:0a:e5:18:b5:0a:f0:96:a9:11:81:
+        3d:a9:50:c4:9f:fa:f5:4a:4c:4c:ed:22:f3:aa:63:7f:1d:de:
+        97:9b:cd:47:a2:13:d1:76:8f:8f:b0:39:d4:e8:5d:56:71:c1:
+        bd:19:8c:fc:d8:79:78:f5:5d:95:d1:c4:8b:8f:87:7a:fb:52:
+        12:b5:97:71:bd:0f:2f:f9:87:98:d8:25:75:c4:5a:e0:26:01:
+        31:e3:07:82:d8:15:0b:f7:f1:f1:21:7a:35:14:78:b7:a8:68:
+        cc:d4:97:52:9d:ac:d4:3d:05:be:18:e0:bd:5a:d6:a9:e6:00:
+        82:58:32:68:c9:51:1c:82:5c:f9:c9:d3:0b:3a:17:7b:a4:84:
+        4e:3b:c3:2d:c1:52:94:35:b9:aa:e9:ac:a0:e1:ea:ae:cd:4e:
+        d0:94:83:f7:1f:99:09:9b:e4:fb:fc:f7:72:ca:b8:fb:b3:d7:
+        d8:b0:71:c2:2f:91:17:ec:a7:a0:8c:a4:4c:a0:53:ca:f4:27:
+        46:ca:2a:a3:2b:e4:bb:26:5c:e4:be:bc:55:b9:ef:9b:b5:75:
+        8f:7b:05:f8:52:ad:6a:59:fc:31:8c:ec:54:90:16:2e:94:70:
+        66:de:df:cf
+-----BEGIN CERTIFICATE-----
+MIIDQDCCAiigAwIBAgICEAAwDQYJKoZIhvcNAQELBQAwgYQxCzAJBgNVBAYTAlVT
+MRAwDgYDVQQIDAdJbmRpYW5hMRIwEAYDVQQHDAlMYWZheWV0dGUxCzAJBgNVBAoM
+AlBVMQswCQYDVQQLDAJQVTEPMA0GA1UEAwwGbWMyMGNhMSQwIgYJKoZIhvcNAQkB
+FhVjYUBtYzIwLmNzLnB1cmR1ZS5lZHUwHhcNMjQwMzAzMjEyODEzWhcNMjUwMzAz
+MjEyODEzWjB2MQswCQYDVQQGEwJVUzEQMA4GA1UECAwHSW5kaWFuYTELMAkGA1UE
+CgwCUFUxCzAJBgNVBAsMAlBVMRAwDgYDVQQDDAdzdnJfY3NyMSkwJwYJKoZIhvcN
+AQkBFhpzdnJfY3NyQG1jMjAuY3MucHVyZHVlLmVkdTCBnzANBgkqhkiG9w0BAQEF
+AAOBjQAwgYkCgYEA5vXh3NOeRMYYiaonXMS6jsc1eTshJg9CjsKCdpAUwHS7eYLs
+fDUDkMzDfARJnxUjGRUzLbB3h9Gpj8wCgaVqubYw5aoKnjN7hwPFvU8KiqGEp3Er
+YSzYR7GPoL4462MyHbBDDNlFsCac9FhNVLUM5R5Vf+IpVOMW/WuBeCwvd20CAwEA
+AaNNMEswCQYDVR0TBAIwADAdBgNVHQ4EFgQU/sswIbcN/1FMWUubDYig7HO6Iscw
+HwYDVR0jBBgwFoAUH1zxziAskESoCRC9LYLYEu5KR5AwDQYJKoZIhvcNAQELBQAD
+ggEBAGdd7NsFnkWw5Bdu1WrBPmDHEd0eR0euzC6xCuUYtQrwlqkRgT2pUMSf+vVK
+TEztIvOqY38d3pebzUeiE9F2j4+wOdToXVZxwb0ZjPzYeXj1XZXRxIuPh3r7UhK1
+l3G9Dy/5h5jYJXXEWuAmATHjB4LYFQv38fEhejUUeLeoaMzUl1KdrNQ9Bb4Y4L1a
+1qnmAIJYMmjJURyCXPnJ0ws6F3ukhE47wy3BUpQ1uarprKDh6q7NTtCUg/cfmQmb
+5Pv893LKuPuz19iwccIvkRfsp6CMpEygU8r0J0bKKqMr5LsmXOS+vFW575u1dY97
+BfhSrWpZ/DGM7FSQFi6UcGbe388=
+-----END CERTIFICATE-----
